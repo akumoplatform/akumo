@@ -26,6 +26,6 @@ The better is reach all those features using a simple and powerful approach.
 ## Where to learn more?
 
 To learn more we suggest looking at this three sources:
-* Its wiki
+* Its <a href='https://github.com/akumoplatform/akumo/wiki'>wiki</a>
 * The **example** folder in akumo's installation directory
 * The API's documentation at **<AKUMO_HOME>/doc** folder in akumo's installation directory 
