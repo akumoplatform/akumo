@@ -2,7 +2,7 @@
 
 The _Akumo Platform_ is an awesome and new way to _create_, _automate_ and _test_ **Microservices** and **Enterprise applications**. 
 
-In the background, Akumo use Java in a transparent way to support scripts realize complex tasks. But basically Akumo's script language is JavaScript.
+In the background, Akumo use Java in a transparent way to support that scripts realize complex tasks. But basically Akumo's script language is JavaScript.
 
 Moreover the Platform is so easy to extend and reuse, by the way all technology was developed thinking on three main features:
 
@@ -13,7 +13,7 @@ Moreover the Platform is so easy to extend and reuse, by the way all technology 
 ## Why Akumo Plataform?
 
 Akumo give you the possibility to save a lot the time of development, maintenance and running tests.
-As we see above the three pillars: Simplicity, Reusability and Extensibility will delivery all advantages of easily building complex automation or even systems to accomplish tasks as: 
+As we see above the three pillars: Simplicity, Reusability and Extensibility will delivery all advantages of easily building complex automation or even entire systems to accomplish tasks as: 
 * test microservices environment
 * automation of process
 * stress tests
