@@ -9,7 +9,7 @@ With Akumo we can develop scripts of general propose that can running in distinc
 
 Usually in one environment we found several scripts written in different languages to accomplish distincts goals. For instance we can have scripts written using bash to move and copy file and to handle http set up, scripts written in python to monitoring directories and start jenkins pipeline and so on so forth. Furthmore in such environment there is different Operation Systems.
 <p>
-Using Akumo Platform in this scenario we'll should has all that scripts written using the same sintaxe/language and running everywhere (Windows, Mac, Linux). Thus saving either development and maintenance time.
+  Using <b>Akumo Platform</b> in this scenario we'll should has all that scripts written using the <b>same sintaxe/language</b> and <b>running everywhere</b> (Windows, Mac, Linux). Thus saving either development and maintenance time.
 </p>
 
 ### API
