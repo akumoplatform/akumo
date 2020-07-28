@@ -14,13 +14,14 @@ Usually in one environment we found several scripts written in different languag
 
 ### API
 
-The entire platform was developed with simplicity in mind. Akumo's offering offers a simple and powerful way to develop cross-platform scripts to make proposed distinctions. To achieve these goals, we make use of a powerful API (pre-built functions). To support this API, there is a robust technological platform. Furthmore this API could be easily extend. 
+Akumo's offers a simple and powerful way to develop cross-platform scripts to general use. To achieve these goals, we make use of a <b>powerful API</b> (pre-built functions). To support this API, there is a <b>robust technological platform</b>. Furthmore this API could be easily extend. 
 <p>
 So we can summed up the keys of the Akumo Platform as:
 </p>
-1. Simplicity
-2. Reusability
-3. Extensibility
+
+1. Simplicity<br>
+2. Reusability<br>
+3. Extensibility<br>
 
 ### Learn more
 
