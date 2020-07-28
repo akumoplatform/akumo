@@ -4,6 +4,9 @@ We can define the Akumo Platform, briefly as a technology to develop in a <b>sim
 <p>
 With Akumo we can develop scripts of general propose that can running in distincts operating systems without any changing on the code. 
 </p>
+
+### Use
+
 Usually in one environment we found several scripts written in different languages to accomplish distincts goals. For instance we can have scripts written using bash to move and copy file and to handle http set up, scripts written in python to monitoring directories and start jenkins pipeline and so on so forth. Furthmore in such environment there is different Operation Systems.
 <p>
 Using Akumo Platform in this scenario we'll should has all that scripts written using the same sintaxe/language and running everywhere (Windows, Mac, Linux). Thus saving either development and maintenance time.
