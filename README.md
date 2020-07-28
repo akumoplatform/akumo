@@ -1,31 +1,30 @@
-## What is Akumo Platform?
+## Akumo Platform
 
-The _Akumo Platform_ is an awesome and new way to _create_, _automate_ and _test_ **Microservices** and **Enterprise applications**. 
+We can define the Akumo Platform, briefly as a technology to develop in a <b>simple</b> and <b>powerful</b> way <b>Cross-platform Script.</b>
+<p>
+With Akumo we can develop scripts of general propose that can running in distincts operating systems without any changing on the code. 
+</p>
 
-In the background, Akumo use Java in a transparent way to support that scripts realize complex tasks. But basically Akumo's script language is JavaScript.
+### Use
 
-Moreover the Platform is so easy to extend and reuse, by the way all technology was developed thinking on three main features:
+Usually in one environment we found several scripts written in different languages to accomplish distincts goals. For instance we can have scripts written using bash to move and copy file and to handle http set up, scripts written in python to monitoring directories and start jenkins pipeline and so on so forth. Furthmore in such environment there is different Operation Systems.
+<p>
+  Using <b>Akumo Platform</b> in this scenario we'll should has all that scripts written using the <b>same sintaxe/language</b> and <b>running everywhere</b> (Windows, Mac, Linux). Thus saving either development and maintenance time.
+</p>
 
-1. Simplicity
-1. Reusability
-1. Extensibility
+### API
 
-## Why Akumo Plataform?
+Akumo's offers a simple and powerful way to develop cross-platform scripts to general use. To achieve these goals, we make use of a <b>powerful API</b> (pre-built functions). To support this API, there is a <b>robust technological platform</b>. Furthmore this API could be easily extend. 
+<p>
+So we can summed up the keys of the Akumo Platform as:
+</p>
 
-Akumo give you the possibility to save a lot the time of development, maintenance and running tests.
-As we see above the three pillars: Simplicity, Reusability and Extensibility will delivery all advantages of easily building complex automation or even entire systems to accomplish tasks as: 
-* test microservices environment
-* automation of process
-* stress tests
-* measuring performance
-* test functional behavior
-* scheduling tasks
+1. Simplicity<br>
+2. Reusability<br>
+3. Extensibility<br>
 
-The better is reach all those features using a simple and powerful approach.
-
-## Where to learn more?
+### Learn more
 
 To learn more we suggest looking at this three sources:
-* Its <a href='https://github.com/akumoplatform/akumo/wiki'>wiki</a>
-* The **example** folder in akumo's installation directory
-* The API's documentation at **<AKUMO_HOME>/doc** folder in akumo's installation directory 
+* The <a href='https://github.com/akumoplatform/akumo/wiki'>wiki</a>
+* The Core API documentation on github
