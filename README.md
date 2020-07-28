@@ -1,6 +1,6 @@
 ## Akumo Platform
 
-We can define the Akumo Platform, briefly as a technology to develop in a simple and powerful way Cross-platform Script.
+We can define the Akumo Platform, briefly as a technology to develop in a <b>simple</b> and <b>powerful</b> way <b>Cross-platform Script.</b>
 <p>
 With Akumo we can develop scripts of general propose that can running in distincts operating systems without any changing on the code. 
 </p>
@@ -8,6 +8,7 @@ Usually in one environment we found several scripts written in different languag
 <p>
 Using Akumo Platform in this scenario we'll should has all that scripts written using the same sintaxe/language and running everywhere (Windows, Mac, Linux). Thus saving either development and maintenance time.
 </p>
+
 ### API
 
 The entire platform was developed with simplicity in mind. Akumo's offering offers a simple and powerful way to develop cross-platform scripts to make proposed distinctions. To achieve these goals, we make use of a powerful API (pre-built functions). To support this API, there is a robust technological platform. Furthmore this API could be easily extend. 
