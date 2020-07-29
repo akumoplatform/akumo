@@ -25,6 +25,6 @@ So we can summed up the keys of the Akumo Platform as:
 
 ## Learn more
 
-To learn more we suggest looking at this three sources:
+To learn more we suggest looking at this:
 * The <a href='https://github.com/akumoplatform/akumo/wiki'>wiki</a>
 
