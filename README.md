@@ -2,7 +2,7 @@
 
 Akumo Platform is a technology to develop in a <b>simple</b> and <b>powerful</b> way <b>Cross-platform Scripting.</b>
 <p>
-With Akumo we can develop scripts of general propose that can running in distinct operating systems without any changing on the code. 
+With Akumo we can develop scripts of general use that can running in distinct operating systems without any changing on the code. 
 </p>
 
 ## Use
