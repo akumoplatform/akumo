@@ -27,5 +27,5 @@ So we can summed up the keys of the Akumo Platform as:
 
 To learn more we suggest looking at this:
 * The <a href='https://github.com/akumoplatform/akumo/wiki'>wiki</a>
-* The <a href='https://github.com/akumoplatform/akumo/tree/master/documentation'>documentation</a>
+* The <a href='https://akumoplatform.github.io/documentation/index.html'>documentation</a>
 
