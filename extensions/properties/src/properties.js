@@ -1,3 +1,9 @@
+/**
+ * This function is responseable for loading a properties file.
+ * 
+ * @param {string} path the file path.
+ * @param {boolean} relative searching by a relative path if true.
+ */
 function properties(path, relative) {
     try {
         if (relative) {
