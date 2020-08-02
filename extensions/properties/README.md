@@ -44,10 +44,8 @@ To run, staying on root project's directory, execute this:
 
 After loaded the file use the method 'getProperty(key)' to retrieve a value from the properties file.
 <p>
-The code above show us how is straight load a properties file and use it on Akumo.
-<p>
 
-To load a file passing a absolute path, just change the second parameter ('rel') to false:
+To load a file passing an absolute path, just change the second parameter ('rel') to false:
 
 ```javascript
 
