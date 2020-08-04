@@ -25,7 +25,7 @@ So we can summed up the keys of the Akumo Platform as:
 
 ## Extensibility
 
-Extend Core API improving it, is easier than you could guess. To know how extend works see the <a href='https://github.com/akumoplatform/akumo/wiki/C.-Features'>features</a> topic on wiki <i>( basically put extensions files on /ext directory)</i>. But for the impacient grasp how easy it is, you could see the <a href='https://github.com/akumoplatform/akumo/tree/master/extensions'>extensions directory</a>, each one of extensions has a small documentation with examples.
+Extend Core API improving it, is easier than you could guess. To know how extend works see the <a href='https://github.com/akumoplatform/akumo/wiki/C.-Features'>features</a> topic on wiki <i>( basically put extensions files on /ext directory)</i>. But for the impacient grasp how easy it is, you could see either <a href='https://github.com/akumoplatform/akumo-js'>JS extensions repository</a> and <a href='https://github.com/akumoplatform/akumo-commons'>Java extensions repository</a>, each one of these extensions has a small documentation with examples.
 
 ## Learn more
 
