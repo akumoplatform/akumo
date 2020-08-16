@@ -11,7 +11,7 @@ Download the binaries for MacOs, Linux or Windows, unzip the file and then open 
 file was unzipped and type: 
 
 ```javascript
-console.log('Hello World!')
+console.log('Hello World\!')
 
 ```
 
