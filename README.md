@@ -15,6 +15,8 @@ console.log('Hello World\!')
 
 ```
 
+There are four ways to running an Akumo script look at this <a href="https://github.com/akumoplatform/akumo/wiki/B.-Running">running wiki</a>. 
+
 ## Extensibility
 
 To extend Akumo Core API take a look either <a href='https://github.com/akumoplatform/akumo-js'>JS extensions repository</a> and <a href='https://github.com/akumoplatform/akumo-commons'>Java extensions repository</a>.
