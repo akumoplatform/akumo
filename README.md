@@ -4,11 +4,6 @@ Akumo Platform is a technology to develop in a <b>simple</b> and <b>powerful</b>
 <p>
 With Akumo we can develop scripts of general use that can running in distinct operating systems without any changing on the code. 
 </p>
-
-# Akumo Platform Wiki
-
-The propose of this Wiki is help on understanding of <b>Akumo Platform</b> cover topics since download, installation and much more.
-
 <p>
 Any feedback could be made by email:
 </p>
