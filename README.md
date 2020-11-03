@@ -185,7 +185,11 @@ To exit from debug mode:
 
 ```
 
-  
+## Learn by examples
+
+Scripts and examples see:
+
+<a href="https://github.com/akumoplatform/tutorial">tutorial</a>
 
 
 
