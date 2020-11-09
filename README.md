@@ -1,15 +1,3 @@
-# Akumo Platform
-
-Akumo Platform is a technology to develop in a <b>simple</b> and <b>powerful</b> way <b>Cross-platform Scripting.</b>
-<p>
-With Akumo we can develop scripts of general use that can running in distinct operating systems without any changing on the code. 
-</p>
-<p>
-Any feedback could be made by email:
-</p>
-<p>
-<b><i>akumoplatform@gmail.com</i></b>
-
 # Download
 
 First of all we need download the binaries. Choose the file based on Operation System, nowadays we have three options: 
