@@ -97,6 +97,7 @@ akumo.exe --input:C:\somefolder\hello.js
 //or 
 akumo.exe -i:"C:\somefolder with space\hello.js"
 ```
+<p>For windows users running by statement is needed pass the absolute path file to '-i' option.</p>
 
 <b><i>Like Unix</i></b>
 
