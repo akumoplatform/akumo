@@ -10,7 +10,7 @@ First of all we need download the binaries. Choose the file based on Operation S
 </b>
 </p>
 
-After downloaded and decompress the file we suggested either create the $AKUMO_HOME variable pointing to the Akumo's installation directory and put the $AKUMO_HOME on the <b>PATH</b> variable, doing it you'll be capable to call akumo executable file anywhere in your SO.
+After downloaded and decompress the file we strongly suggest either create the $AKUMO_HOME variable pointing to the Akumo's installation directory, without that assignment some features won't work. Another recommendation is to put the $AKUMO_HOME on the <b>PATH</b> variable, doing it you'll be capable to call akumo executable file anywhere in your SO.
 
 ```bash
 export AKUMO_HOME=/home/user/akumo-mac
@@ -97,8 +97,6 @@ akumo.exe --input:C:\somefolder\hello.js
 //or 
 akumo.exe -i:"C:\somefolder with space\hello.js"
 ```
-<p>For windows users running by statement is needed pass the absolute path file to '-i' option.</p>
-
 <b><i>Like Unix</i></b>
 
 ```bash
