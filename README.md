@@ -139,11 +139,11 @@ akumo -c:hello
 ```
 
 The akumo.json file has the 'scripts' section where we can put shortcuts to either scripts files or statements.<br>
-Navigate to the root project's directory. To run a statement:
+Navigate to the root project's directory. To run a statement type:
 
 
 ```bash
-akumo --run:hello
+akumo --run:version
 
 ```
 
@@ -151,7 +151,7 @@ To run a script file:
 
 
 ```bash
-akumo --file:fileName.js
+akumo --file:example
 
 ```
 
