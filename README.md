@@ -28,7 +28,7 @@ PATH=%PATH%;%AKUMO_HOME%
 
 # Running scripts
 
-We've three ways to run a script: <b>interactive</b>, <b>by file</b> and <b>by statement</b>.
+We've four ways to run a script: <b>interactive</b>, <b>by file</b>, <b>by statement</b> and by project.
 <p>
 
 ## Interactive
@@ -126,6 +126,36 @@ akumo.exe console.log('hello world')
 ./akumo "console.log('hello world\!')"
 
 ```
+
+## By Project
+
+We can create an akumo's project it consist basically on structeds folders and configuration files. Through a project we can better organize ours project, creat shortcuts and running scripts easily.<br>   
+To create a project:
+
+```bash
+# --create or -c
+akumo -c:hello
+
+```
+
+The akumo.json file has the 'scripts' section where we can put shortcuts to either scripts files or statements.<br>
+Navigate to the root project's directory. To run a statement:
+
+
+```bash
+akumo --run:hello
+
+```
+
+To run a script file:
+
+
+```bash
+akumo --file:fileName.js
+
+```
+
+
 ### How debugging 
 
 So debugging script's is easy like all the other features on the platform. Firstly create a file with the following content:
