@@ -171,6 +171,8 @@ akumo --f:example2
 
 ```
 
+<b>ATENTION:</b> the mode interactive isn't work on projects, that means if in user.dir has an akumo.json file.
+
 ### How debugging 
 
 So debugging script's is easy like all the other features on the platform. Firstly create a file with the following content:
