@@ -143,6 +143,7 @@ Navigate to the root project's directory. To run a statement type:
 
 
 ```bash
+# --run or -r
 akumo --run:version
 
 ```
@@ -151,6 +152,7 @@ To run a script file:
 
 
 ```bash
+# --file or -f
 akumo --file:example
 
 ```
