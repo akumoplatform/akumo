@@ -156,7 +156,20 @@ To run a script file:
 akumo --file:example
 
 ```
+To add new entries on script section we just run a statment using the Project object see bellow:
 
+```
+Project.script({'key':'example2','value':'example2.js'})
+
+```
+
+To this new entry work we need create a new script file named: 'example2.js' on project's script directory and then call it:
+
+```bash
+# --file or -f
+akumo --f:example2
+
+```
 
 ### How debugging 
 
