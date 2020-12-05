@@ -159,7 +159,7 @@ akumo --file:example
 To add new entries on script section we just run a statment using the Project object see bellow:
 
 ```
-Project.script({'key':'example2','value':'example2.js'})
+akumo "Project.script({'key':'example2','value':'example2.js'})"
 
 ```
 
